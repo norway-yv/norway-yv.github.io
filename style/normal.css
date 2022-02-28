@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(15, 60, 150);
+    font-size: 25;
+    margin-bottom: .3em;
+    text-align:center;
+}
+h2 {
+    color: rgb(15, 60, 150);
+    font-size: 20;
+    margin-bottom: .3em;
+    text-align: center;
+}
+h3 {
+    color: rgb(15, 60, 150);
+    font-size: 16;
+    margin-bottom: .3em;
+    text-align: center;
+}
+p {
+    color: rgb(15, 50, 100); 
+    font-size: 16;
+    margin-bottom: .3em;
+    text-align: center;
+}
+li {
+    color:rgb(15, 50, 100);
+    font-size: 16;
+    margin-bottom: .3em;
+    text-align: center;
+}
+a {
+    color:rgb(15, 50, 100);
+    font-size: 16;
+    margin-bottom: .3em;
+    text-align: center;
+}
+.logoTop {
+    max-width: 10%;
+    max-height: 13%;
+}
+header {
+    text-align: center;
+}
