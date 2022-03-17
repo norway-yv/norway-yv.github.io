@@ -1,39 +1,17 @@
-h1 {
-    color: rgb(15, 60, 150);
-    font-size: 25;
+h1, h2, h3, p, li, a {
     margin-bottom: .3em;
     text-align:center;
+    /*max-width:50%;*/
 }
-h2 {
-    color: rgb(15, 60, 150);
-    font-size: 20;
-    margin-bottom: .3em;
-    text-align: center;
-}
-h3 {
-    color: rgb(15, 60, 150);
-    font-size: 16;
-    margin-bottom: .3em;
-    text-align: center;
-}
-p {
-    color: rgb(15, 50, 100); 
-    font-size: 16;
-    margin-bottom: .3em;
-    text-align: center;
-}
-li {
-    color:rgb(15, 50, 100);
-    font-size: 16;
-    margin-bottom: .3em;
-    text-align: center;
-}
-a {
-    color:rgb(15, 50, 100);
-    font-size: 16;
-    margin-bottom: .3em;
-    text-align: center;
-}
+
+h1, h2, h3 {color: rgb(15, 60, 150);}
+p, li, a {color: rgb(15, 50, 100); 
+    font-size: 16;}
+
+h1 {font-size: 25;}
+h2 {font-size: 20;}
+h3 {font-size: 16;}
+
 .logoTop {
     max-width: 10%;
     max-height: 13%;
