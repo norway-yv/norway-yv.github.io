@@ -1,7 +1,6 @@
 h1, h2, h3, p, li, a {
     margin-bottom: .3em;
     text-align:center;
-    /*max-width:50%;*/
 }
 
 h1, h2, h3 {color: rgb(15, 60, 150);}
